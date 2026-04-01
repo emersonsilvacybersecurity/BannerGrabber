@@ -12,32 +12,10 @@ Este projeto foca na etapa de enumeração e mapeamento de vulnerabilidades, per
 * **Robustez de Dados:** Tratamento de decodificação de caracteres para suportar banners de sistemas legados.
 * **Gestão de Conexão:** Controle de timeouts para garantir estabilidade em redes externas e serviços silenciosos.
 
-### Como Executar
-
-#### Pré-requisitos
-* Python 3.6 ou superior instalado.
-* Não requer instalação de bibliotecas externas (bateria incluída).
-
-#### Instalação e Uso
-1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/emersonsilvacybersecurity/python-banner-grabber.git](https://github.com/emersonsilvacybersecurity/python-banner-grabber.git)
-
-2. **Acesse o diretório:**
-   ```bash
-   cd python-banner-grabber
-
-3. **Execute a ferramenta:*
-    ```bash
-    python banner_grabber.py
-
 
 Análise de segurança (Aviso Legal)
-
 Este roteiro foi desenvolvido exclusivamente para fins educacionais e auditorias de segurança autorizadas.
-
 Ética: O uso desta ferramenta contra alvos sem permissão prévia é ilegal.
-
 Responsabilidade: O autor não se responsabiliza por qualquer uso indevido ou danos causados a terceiros.
 
    
